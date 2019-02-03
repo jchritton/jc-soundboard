@@ -1,0 +1,26 @@
+{
+  "name": "jc-soundboard",
+  "version": "0.0.1",
+  "description": "An app for setting up and playing sound clips.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchritton/jc-soundboard.git"
+  },
+  "author": "John Chritton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchritton/jc-soundboard/issues"
+  },
+  "homepage": "https://github.com/jchritton/jc-soundboard#readme",
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-import": "^2.16.0",
+    "prettier-eslint": "^8.8.2"
+  }
+}
